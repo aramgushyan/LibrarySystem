@@ -1,0 +1,15 @@
+/home/aram/RiderProjects/WebApplication1/Applications/bin/Debug/net9.0/Applications.deps.json
+/home/aram/RiderProjects/WebApplication1/Applications/bin/Debug/net9.0/Applications.dll
+/home/aram/RiderProjects/WebApplication1/Applications/bin/Debug/net9.0/Applications.pdb
+/home/aram/RiderProjects/WebApplication1/Applications/bin/Debug/net9.0/Domain.dll
+/home/aram/RiderProjects/WebApplication1/Applications/bin/Debug/net9.0/Domain.pdb
+/home/aram/RiderProjects/WebApplication1/Applications/obj/Debug/net9.0/Applications.csproj.AssemblyReference.cache
+/home/aram/RiderProjects/WebApplication1/Applications/obj/Debug/net9.0/Applications.GeneratedMSBuildEditorConfig.editorconfig
+/home/aram/RiderProjects/WebApplication1/Applications/obj/Debug/net9.0/Applications.AssemblyInfoInputs.cache
+/home/aram/RiderProjects/WebApplication1/Applications/obj/Debug/net9.0/Applications.AssemblyInfo.cs
+/home/aram/RiderProjects/WebApplication1/Applications/obj/Debug/net9.0/Applications.csproj.CoreCompileInputs.cache
+/home/aram/RiderProjects/WebApplication1/Applications/obj/Debug/net9.0/Applicat.B7D1A39B.Up2Date
+/home/aram/RiderProjects/WebApplication1/Applications/obj/Debug/net9.0/Applications.dll
+/home/aram/RiderProjects/WebApplication1/Applications/obj/Debug/net9.0/refint/Applications.dll
+/home/aram/RiderProjects/WebApplication1/Applications/obj/Debug/net9.0/Applications.pdb
+/home/aram/RiderProjects/WebApplication1/Applications/obj/Debug/net9.0/ref/Applications.dll

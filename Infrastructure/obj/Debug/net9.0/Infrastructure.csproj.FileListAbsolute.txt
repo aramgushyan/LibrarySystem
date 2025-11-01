@@ -1,0 +1,17 @@
+/home/aram/RiderProjects/WebApplication1/Infrastructure/bin/Debug/net9.0/Infrastructure.deps.json
+/home/aram/RiderProjects/WebApplication1/Infrastructure/bin/Debug/net9.0/Infrastructure.runtimeconfig.json
+/home/aram/RiderProjects/WebApplication1/Infrastructure/bin/Debug/net9.0/Infrastructure.dll
+/home/aram/RiderProjects/WebApplication1/Infrastructure/bin/Debug/net9.0/Infrastructure.pdb
+/home/aram/RiderProjects/WebApplication1/Infrastructure/bin/Debug/net9.0/Domain.dll
+/home/aram/RiderProjects/WebApplication1/Infrastructure/bin/Debug/net9.0/Domain.pdb
+/home/aram/RiderProjects/WebApplication1/Infrastructure/obj/Debug/net9.0/Infrastructure.csproj.AssemblyReference.cache
+/home/aram/RiderProjects/WebApplication1/Infrastructure/obj/Debug/net9.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/aram/RiderProjects/WebApplication1/Infrastructure/obj/Debug/net9.0/Infrastructure.AssemblyInfoInputs.cache
+/home/aram/RiderProjects/WebApplication1/Infrastructure/obj/Debug/net9.0/Infrastructure.AssemblyInfo.cs
+/home/aram/RiderProjects/WebApplication1/Infrastructure/obj/Debug/net9.0/Infrastructure.csproj.CoreCompileInputs.cache
+/home/aram/RiderProjects/WebApplication1/Infrastructure/obj/Debug/net9.0/Infrastr.15EFFBFE.Up2Date
+/home/aram/RiderProjects/WebApplication1/Infrastructure/obj/Debug/net9.0/Infrastructure.dll
+/home/aram/RiderProjects/WebApplication1/Infrastructure/obj/Debug/net9.0/refint/Infrastructure.dll
+/home/aram/RiderProjects/WebApplication1/Infrastructure/obj/Debug/net9.0/Infrastructure.pdb
+/home/aram/RiderProjects/WebApplication1/Infrastructure/obj/Debug/net9.0/Infrastructure.genruntimeconfig.cache
+/home/aram/RiderProjects/WebApplication1/Infrastructure/obj/Debug/net9.0/ref/Infrastructure.dll

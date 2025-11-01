@@ -1,0 +1,12 @@
+/home/aram/RiderProjects/WebApplication1/Domain/bin/Debug/net9.0/Domain.deps.json
+/home/aram/RiderProjects/WebApplication1/Domain/bin/Debug/net9.0/Domain.dll
+/home/aram/RiderProjects/WebApplication1/Domain/bin/Debug/net9.0/Domain.pdb
+/home/aram/RiderProjects/WebApplication1/Domain/obj/Debug/net9.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/aram/RiderProjects/WebApplication1/Domain/obj/Debug/net9.0/Domain.AssemblyInfoInputs.cache
+/home/aram/RiderProjects/WebApplication1/Domain/obj/Debug/net9.0/Domain.AssemblyInfo.cs
+/home/aram/RiderProjects/WebApplication1/Domain/obj/Debug/net9.0/Domain.csproj.CoreCompileInputs.cache
+/home/aram/RiderProjects/WebApplication1/Domain/obj/Debug/net9.0/Domain.dll
+/home/aram/RiderProjects/WebApplication1/Domain/obj/Debug/net9.0/refint/Domain.dll
+/home/aram/RiderProjects/WebApplication1/Domain/obj/Debug/net9.0/Domain.pdb
+/home/aram/RiderProjects/WebApplication1/Domain/obj/Debug/net9.0/ref/Domain.dll
+/home/aram/RiderProjects/WebApplication1/Domain/obj/Debug/net9.0/Domain.csproj.AssemblyReference.cache
